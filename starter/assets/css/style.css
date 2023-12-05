@@ -28,18 +28,17 @@ body {
     float: right;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 20px;
+    
 }
 
 
 .header div ul li {
     display: inline-block;
     margin-left: 25px;
-    list-style-type: none;
 }
 
 a {
     color: #ffffff;
-    text-decoration: none;
 }
 
 p {
@@ -189,8 +188,7 @@ p {
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
-}
-
-.footer h2 {
     font-size: 20px;
 }
+
+
